@@ -1,0 +1,7 @@
+miasm==0.1.5
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+pycryptodome==3.21.0
+pyfiglet==1.0.2
+pyparsing==2.4.7
+tqdm==4.67.1
